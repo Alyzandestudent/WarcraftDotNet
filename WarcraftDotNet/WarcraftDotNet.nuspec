@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WarcraftDotNet</id>
+    <version>0.1</version>
+    <title>WarcraftDotNet</title>
+    <authors>Sean Sanchez</authors>
+    <owners>Sean Sanchez</owners>
+    <licenseUrl>https://github.com/seansanchez/WarcraftDotNet/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/seansanchez/WarcraftDotNet/</projectUrl>
+    <iconUrl>https://github.com/seansanchez/WarcraftDotNet/blob/master/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Warcraft Community API Wrapper written in C# for .NET Standard</description>
+    <tags>World-of-Warcraft NETStandard Blizzard API WoW</tags>
+  </metadata>
+</package>
