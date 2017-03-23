@@ -8,7 +8,7 @@
     <owners>Sean Sanchez</owners>
     <licenseUrl>https://github.com/seansanchez/WarcraftDotNet/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/seansanchez/WarcraftDotNet/</projectUrl>
-    <iconUrl>https://github.com/seansanchez/WarcraftDotNet/blob/master/icon.jpg</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/seansanchez/WarcraftDotNet/master/icon.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Warcraft Community API Wrapper written in C# for .NET Standard</description>
     <tags>World-of-Warcraft NETStandard Blizzard API WoW</tags>
