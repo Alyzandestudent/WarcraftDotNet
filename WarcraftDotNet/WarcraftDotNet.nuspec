@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>WarcraftDotNet</id>
-    <version>0.1</version>
+    <version>$version$</version>
     <title>WarcraftDotNet</title>
     <authors>Sean Sanchez</authors>
     <owners>Sean Sanchez</owners>
