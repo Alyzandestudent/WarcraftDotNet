@@ -22,7 +22,7 @@ namespace WarcraftDotNet.API.RealmStatus
         [JsonProperty("locale")]
         public string Locale { get; set; }
         [JsonProperty("timezone")]
-        public string Timezome { get; set; }
+        public string Timezone { get; set; }
         [JsonProperty("connectedRealms")]
         public List<string> ConnectedRealms { get; set; }
     }

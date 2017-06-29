@@ -6,6 +6,8 @@
     <ApplicationIcon />
     <OutputTypeEx>library</OutputTypeEx>
     <StartupObject />
+    <PackageIconUrl>https://raw.githubusercontent.com/seansanchez/WarcraftDotNet/master/icon.jpg</PackageIconUrl>
+    <Description />
   </PropertyGroup>
 
   <ItemGroup>
