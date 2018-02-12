@@ -1,11 +1,11 @@
 ﻿namespace WarcraftDotNet.Enum
 {
+    // ReSharper disable InconsistentNaming
     public enum RaceEnum
     {
         Human = 1,
         Orc = 2,
-        Dwarf = 3,
-        // ReSharper disable once InconsistentNaming
+        Dwarf = 3,     
         Night_Elf = 4,
         Undead = 5,
         Tauren = 6,
@@ -15,10 +15,12 @@
         Blood_Elf = 10,
         Draenei = 11,
         Worgen = 22,
-        // ReSharper disable InconsistentNaming
         Pandaren_Neutral = 24,
         Pandaren_Alliance = 25,
-        Panderen_Horde = 26
-        // ReSharper restore InconsistentNaming
+        Panderen_Horde = 26,
+        Nightbourne = 27,
+        Highmountain_Tauren = 28,
+        Void_Elf = 29,
+        Lightforged_Draenei = 30
     }
 }
