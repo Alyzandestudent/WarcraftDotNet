@@ -4,4 +4,4 @@
 
 Warcraft Community API Wrapper written in C# for .NET Standard
 
-![Build Status](https://aessc.visualstudio.com/_apis/public/build/definitions/bcb563d9-128d-475a-b075-d94430598e8c/8/badge)
+[![Build status](https://ci.appveyor.com/api/projects/status/w7syw88j03k76i7v?svg=true)](https://ci.appveyor.com/project/seansanchez/warcraftdotnet)
