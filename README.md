@@ -4,4 +4,4 @@
 
 Warcraft Community API Wrapper written in C# for .NET Standard
 
-[![Build status](https://ci.appveyor.com/api/projects/status/w7syw88j03k76i7v?svg=true)](https://ci.appveyor.com/project/seansanchez/warcraftdotnet)
+[![Build status](https://dev.azure.com/seansanchez/Public/_apis/build/status/WarcraftDotNet/WarcraftDotNet-Master)](https://dev.azure.com/seansanchez/Public/_build/latest?definitionId=39)
