@@ -7,7 +7,7 @@ pool:
   vmImage: 'Ubuntu 16.04'
 
 variables:
-  buildConfiguration: 'Debug'
+  buildConfiguration: 'Release'
 
 steps:
 # Restore Packages
@@ -19,5 +19,5 @@ steps:
   displayName: 'dotnet build $(buildConfiguration)'
 
 # Run Tests
-- script: dotnet test
+- script: dotnet test "tests"
   displayName: 'dotnet test'
