@@ -1,6 +1,4 @@
-﻿using System;
-using System.Text;
-using RestSharp;
+﻿using RestSharp;
 using WarcraftDotNet.Enums;
 using WarcraftDotNet.Response.OAuth;
 
